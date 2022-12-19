@@ -1,10 +1,14 @@
-### Hi there 👋
+# <p align="center">Hello everybody 👋</p> 
+
+## 👨‍💻 About Me : 
+
+Moi c'est Brice, et je suis Developpeur Front-End Junior ! <br>
+J'ai récemment finalisé ma formation en tant que Developpeur Web chez <a href="https://openclassrooms.com/fr/paths/717-developpeur-web">OpenClassrooms</a>. <br>
+Durant mon temps libre j'aime bien faire du sport, et passer du temps sur internet ! 💪🏻💻
+
+## 💡  Technical Skills :
 
 <!--
-**Brice0907/Brice0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
