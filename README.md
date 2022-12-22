@@ -4,7 +4,7 @@
 
 Moi c'est Brice, et je suis Developpeur Front-End Junior ! <br>
 J'ai récemment finalisé ma formation en tant que Developpeur Web chez <a href="https://openclassrooms.com/fr/paths/717-developpeur-web">OpenClassrooms</a>. <br>
-Durant mon temps libre j'aime bien faire du sport, et passer du temps sur internet ! 💪🏻💻
+Durant mon temps libre, j'aime bien faire du sport et passer du temps sur internet ! 💪🏻💻
 
 ## 💡 Technical Skills :
 <p>
