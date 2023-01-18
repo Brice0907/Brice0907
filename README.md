@@ -25,3 +25,8 @@ Durant mon temps libre, j'aime bien faire du sport et passer du temps sur intern
 <a href="mailto:brice.974452@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" alt="Mail" width="50px"/>
 </a>
+
+## 🔍 Learning :
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="50px"/>
+</p>
