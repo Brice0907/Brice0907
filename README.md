@@ -15,6 +15,8 @@ Durant mon temps libre, j'aime bien faire du sport et passer du temps sur intern
   <img src="https://user-images.githubusercontent.com/108266555/208407440-549f7ffa-bcd6-4cec-9163-14dd6f4b7b39.svg" width="50px"/>
   <img src="https://user-images.githubusercontent.com/108266555/208407642-042d9fc2-1b11-4837-9564-66ae69a792d3.svg" width="50px"/>
   <img src="https://user-images.githubusercontent.com/108266555/208407926-02c1021d-26ec-4bb9-a441-dca88af2b402.svg" width="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width="50px" />
 </p>
 
 ## 🤝 Contact Me :
@@ -25,8 +27,7 @@ Durant mon temps libre, j'aime bien faire du sport et passer du temps sur intern
 <a href="mailto:brice.974452@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" alt="Mail" width="50px"/>
 </a>
-
+<!-- 
 ## 🔍 Learning :
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="50px"/>
-</p>
+</p> -->
