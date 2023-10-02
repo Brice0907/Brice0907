@@ -17,6 +17,7 @@ Durant mon temps libre, j'aime bien faire du sport et passer du temps sur intern
   <img src="https://user-images.githubusercontent.com/108266555/208407926-02c1021d-26ec-4bb9-a441-dca88af2b402.svg" width="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width="50px" />
+  <img src="https://timotheymahieux.fr/wp-content/uploads/2020/10/JQuery-2.png" width="50px" />
 </p>
 
 ## 🤝 Contact Me :
