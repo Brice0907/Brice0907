@@ -19,6 +19,7 @@ Durant mon temps libre, j'aime bien faire du sport et passer du temps sur intern
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width="50px" />
   <img src="https://timotheymahieux.fr/wp-content/uploads/2020/10/JQuery-2.png" width="50px" />
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*5Hnnv0awfSv0BGcq1C522w.png" width="50px" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/redux.svg" width="50px" />
 </p>
 
 ## 🤝 Contact Me :
@@ -31,6 +32,4 @@ Durant mon temps libre, j'aime bien faire du sport et passer du temps sur intern
 </a>
 
 ## 🔍 Learning :
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/symfony/symfony-original.svg" width="50px" />
-</p> 
+<p></p> 
